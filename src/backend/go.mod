@@ -1,3 +1,3 @@
-module github.com/vijayprakashpj/todo-api/backend
+module github.com/vijayprakashpj/todos-api/backend
 
 go 1.20

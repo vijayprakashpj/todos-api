@@ -1,4 +1,4 @@
-module github.com/vijayprakashpj/todo-api/shared
+module github.com/vijayprakashpj/todos-api/shared
 
 go 1.20
 

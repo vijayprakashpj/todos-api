@@ -1,4 +1,4 @@
-module github.com/vijayprakashpj/todo-api
+module github.com/vijayprakashpj/todos-api
 
 go 1.18
 
